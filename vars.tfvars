@@ -1,0 +1,1 @@
+BucketName = "state-file-terraform-bucket"
